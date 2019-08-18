@@ -1,0 +1,11 @@
+/Users/didiervaldez/Desktop/Stack/StackDemo/bin/Debug/netcoreapp2.2/StackDemo.deps.json
+/Users/didiervaldez/Desktop/Stack/StackDemo/bin/Debug/netcoreapp2.2/StackDemo.runtimeconfig.json
+/Users/didiervaldez/Desktop/Stack/StackDemo/bin/Debug/netcoreapp2.2/StackDemo.runtimeconfig.dev.json
+/Users/didiervaldez/Desktop/Stack/StackDemo/bin/Debug/netcoreapp2.2/StackDemo.dll
+/Users/didiervaldez/Desktop/Stack/StackDemo/bin/Debug/netcoreapp2.2/StackDemo.pdb
+/Users/didiervaldez/Desktop/Stack/StackDemo/obj/Debug/netcoreapp2.2/StackDemo.csprojAssemblyReference.cache
+/Users/didiervaldez/Desktop/Stack/StackDemo/obj/Debug/netcoreapp2.2/StackDemo.csproj.CoreCompileInputs.cache
+/Users/didiervaldez/Desktop/Stack/StackDemo/obj/Debug/netcoreapp2.2/StackDemo.AssemblyInfoInputs.cache
+/Users/didiervaldez/Desktop/Stack/StackDemo/obj/Debug/netcoreapp2.2/StackDemo.AssemblyInfo.cs
+/Users/didiervaldez/Desktop/Stack/StackDemo/obj/Debug/netcoreapp2.2/StackDemo.dll
+/Users/didiervaldez/Desktop/Stack/StackDemo/obj/Debug/netcoreapp2.2/StackDemo.pdb
